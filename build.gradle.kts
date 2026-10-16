@@ -11,7 +11,7 @@ base {
 }
 
 val minecraftVersion = "1.21.1"
-val yarnMappings = "1.21.1+build.3"
+val yarnMappings = "1.21.11+build.6"
 val loaderVersion = "0.16.10"
 val fabricApiVersion = "0.114.0+1.21.1"
 
